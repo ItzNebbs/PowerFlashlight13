@@ -1,0 +1,10 @@
+Package: xyz.tylerd3v.powerflashlight13
+Name: PowerFlashlight13
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Toggle Flashlight with Power Button!
+Maintainer: TylerD3V
+Author: TylerD3V
+Section: Tweaks
+Version: 1.1
+Installed-Size: 152
